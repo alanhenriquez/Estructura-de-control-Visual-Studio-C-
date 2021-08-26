@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/Estructuras-de-Control.csproj": {}
+    "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj": {}
   },
   "projects": {
-    "/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/Estructuras-de-Control.csproj": {
+    "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/Estructuras-de-Control.csproj",
+        "projectUniqueName": "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj",
         "projectName": "Estructuras-de-Control",
-        "projectPath": "/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/Estructuras-de-Control.csproj",
-        "packagesPath": "/Users/oscargiovannihenriquez/.nuget/packages/",
-        "outputPath": "/Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/",
+        "projectPath": "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj",
+        "packagesPath": "C:\\Users\\Lemur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/oscargiovannihenriquez/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Lemur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

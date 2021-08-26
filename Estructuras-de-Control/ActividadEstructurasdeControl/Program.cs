@@ -8,7 +8,11 @@
             {
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.Green;
-                principal();
+
+            Console.WriteLine("Cambio agregado por pavillalta");
+
+            principal();
+
             }
 
         static void principal()
