@@ -11,6 +11,7 @@
 
             Console.WriteLine("Cambio agregado por pavillalta");
 
+
             principal();
 
             }
@@ -18,7 +19,6 @@
         static void principal()
         {
             int repMEnu;
-
             Console.WriteLine("                                                                             ");
             Console.WriteLine("=============================================================================");
             Console.WriteLine("                                                                             ");
@@ -33,6 +33,7 @@
             Console.WriteLine("                                                                             ");
             Console.WriteLine("=============================================================================");
             Console.WriteLine("                                                                             ");
+            System.Console.WriteLine("© Grupo 5");
             var cprompt = "\t\t\t\t\t\t   Opcion:";
             Console.Write(string.Format("{0," + ((Console.WindowWidth / 1) + (cprompt.Length / 1)) + "}", cprompt));
             repMEnu = Int32.Parse(Console.ReadLine());            
@@ -55,7 +56,7 @@
             static void opciones(){
             Console.Clear();
             int opcion,repMenu;
-                Console.WriteLine("                                                                             ");
+            Console.WriteLine("                                                                             ");
                 Console.WriteLine("=============================================================================");
                 Console.WriteLine("                                                                             ");
                 Console.WriteLine("                 Pequeño menu de estructura de control                       ");
@@ -66,7 +67,8 @@
                 Console.WriteLine("                 4-- Nombre de la Asignatura                                 ");
                 Console.WriteLine("                                                                             ");
                 Console.WriteLine("=============================================================================");
-                Console.WriteLine("                                                                             ");
+            System.Console.WriteLine("© Grupo 5");
+            Console.WriteLine("                                                                             ");
             var cprompt = "   Elije una Opcion para visualizar:";
             Console.Write(string.Format("{0," + (  (cprompt.Length / 1)) + "}", cprompt));
             opcion = Int32.Parse(Console.ReadLine());
@@ -128,7 +130,8 @@
                 Console.WriteLine("                                                                             ");
                 Console.WriteLine("=============================================================================");
                 Console.WriteLine("                                                                             ");
-                }
+                System.Console.WriteLine("© Grupo 5");
+            }
                 static void programa2()
                 {
          System.Console.WriteLine("                                                                             ");
@@ -143,7 +146,8 @@
                 Console.WriteLine("                                                                             ");
                 Console.WriteLine("=============================================================================");
                 Console.WriteLine("                                                                             ");
-                }
+                System.Console.WriteLine("© Grupo 5");
+            }
                 static void programa3()
                 {
          System.Console.WriteLine("                                                                             ");
@@ -153,7 +157,8 @@
                 Console.WriteLine("                                                                             ");
                 Console.WriteLine("=============================================================================");
                 Console.WriteLine("                                                                             ");
-                }
+                System.Console.WriteLine("© Grupo 5");
+            }
                 static void programa4()
                 {
          System.Console.WriteLine("                                                                             ");
@@ -163,7 +168,8 @@
                 Console.WriteLine("                                                                             ");
                 Console.WriteLine("=============================================================================");
                 Console.WriteLine("                                                                             ");
-                }
+                System.Console.WriteLine("© Grupo 5");
+            }
             }
         }
     }

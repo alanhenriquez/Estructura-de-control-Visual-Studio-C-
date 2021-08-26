@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Lemur\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj",
       "projectName": "Estructuras-de-Control",
-      "projectPath": "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj",
-      "packagesPath": "C:\\Users\\Lemur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lemur\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\Estructuras-de-Control.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Source\\Repos\\Estructura-de-control-Visual-Studio-C-\\Estructuras-de-Control\\ActividadEstructurasdeControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lemur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,3 +10,16 @@
 /Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.dll
 /Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.pdb
 /Users/oscargiovannihenriquez/Desktop/Actividad3EstructurasdeControl-master/ActividadEstructurasdeControl/obj/Debug/netcoreapp3.1/Estructuras-de-Control.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\bin\Debug\netcoreapp3.1\Estructuras-de-Control.exe
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\bin\Debug\netcoreapp3.1\Estructuras-de-Control.deps.json
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\bin\Debug\netcoreapp3.1\Estructuras-de-Control.runtimeconfig.json
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\bin\Debug\netcoreapp3.1\Estructuras-de-Control.runtimeconfig.dev.json
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\bin\Debug\netcoreapp3.1\Estructuras-de-Control.dll
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\bin\Debug\netcoreapp3.1\Estructuras-de-Control.pdb
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.dll
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.pdb
+C:\Users\PC\Source\Repos\Estructura-de-control-Visual-Studio-C-\Estructuras-de-Control\ActividadEstructurasdeControl\obj\Debug\netcoreapp3.1\Estructuras-de-Control.genruntimeconfig.cache
