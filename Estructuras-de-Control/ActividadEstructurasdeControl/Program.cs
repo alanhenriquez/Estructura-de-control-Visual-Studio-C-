@@ -9,8 +9,8 @@
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.Green;
 
-            Console.WriteLine("Cambio agregado por pavillalta");
-
+                Console.WriteLine("Cambio agregado por pavillalta");
+                Console.WriteLine("Cambio agregado como prueba por Alan");
 
             principal();
 
